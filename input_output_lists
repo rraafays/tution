@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
-leaderboard = str[]
+leaderboard = []
 winner = input("Who is the winner? ")
 
 leaderboard.append(winner)
 
-print(leaderboard[1])
+print(leaderboard[0])
