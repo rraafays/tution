@@ -1,2 +1,8 @@
 #!/usr/bin/python3
 
+leaderboard = str[]
+winner = input("Who is the winner? ")
+
+leaderboard.append(winner)
+
+print(leaderboard[1])
