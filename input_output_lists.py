@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 leaderboard = []  # empty string array called leaderboard
 
 player1 = input("who is player 1? ")  # asks who is player 1
